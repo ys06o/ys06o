@@ -28,18 +28,15 @@
 
 ## 🛠 기술 스택
 <div align="left">
-
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=hibernate&logoColor=white" />
-
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellijidea&logoColor=white" />
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
-
 </div>
 
 ## 🚀 현재 집중하는 것
@@ -48,6 +45,23 @@
 - 로깅/모니터링 기반의 운영 안정성 강화
 
 ## 📊 활동 지표
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ys06o&theme=github-dark&hide_border=true&area=true" />
+</div>
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ys06o&show_icons=true&theme=transparent&hide_border=true&cache_seconds=3600" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ys06o&layout=compact&theme=transparent&hide_border=true&cache_seconds=3600" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ys06o&theme=transparent&hide_border=true&locale=ko" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
+</div>
+
 <div align="left">
   <img src="https://img.shields.io/github/followers/ys06o?style=flat-square&label=Followers&color=334155" />
   <img src="https://img.shields.io/github/stars/ys06o?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&label=Total%20Stars&color=334155" />
