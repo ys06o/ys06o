@@ -45,27 +45,11 @@
 - 로깅/모니터링 기반의 운영 안정성 강화
 
 ## 📊 활동 지표
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ys06o&theme=github-dark&hide_border=true&area=true" />
-</div>
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ys06o&show_icons=true&theme=transparent&hide_border=true&cache_seconds=3600" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ys06o&layout=compact&theme=transparent&hide_border=true&cache_seconds=3600" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=ys06o&theme=transparent&hide_border=true&locale=ko" />
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
-</div>
-
 <div align="left">
   <img src="https://img.shields.io/github/followers/ys06o?style=flat-square&label=Followers&color=334155" />
   <img src="https://img.shields.io/github/stars/ys06o?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&label=Total%20Stars&color=334155" />
   <img src="https://img.shields.io/github/last-commit/ys06o/ys06o?style=flat-square&label=Last%20Update&color=334155" />
+  <img src="https://img.shields.io/github/commit-activity/m/ys06o/ys06o?style=flat-square&label=Monthly%20Commits&color=334155" />
 </div>
 
 ## 📂 대표 프로젝트
