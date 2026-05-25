@@ -10,6 +10,12 @@
   <img src="https://komarev.com/ghpvc/?username=ys06o&label=Profile+Views&color=fb923c&style=flat-square" />
 </p>
 
+<p>
+  <img src="https://img.shields.io/github/followers/ys06o?style=flat-square&label=Followers&color=334155" />
+  <img src="https://img.shields.io/github/stars/ys06o?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&label=Total%20Stars&color=334155" />
+  <img src="https://img.shields.io/github/last-commit/ys06o/ys06o?style=flat-square&label=Last%20Update&color=334155" />
+</p>
+
 </div>
 
 ## 🙋 한눈에 보기
@@ -35,21 +41,7 @@
 - 대표 프로젝트를 선별 중이며, 아래 섹션에 순차적으로 업데이트할 예정입니다.
 - 각 프로젝트는 `문제 정의 → 구현 포인트 → 성과` 중심으로 정리할 계획입니다.
 
-## 📊 GitHub Dashboard
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ys06o&show_icons=true&theme=default&hide_border=true&cache_seconds=1800" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ys06o&layout=compact&theme=default&hide_border=true&cache_seconds=1800" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=ys06o&theme=default&hide_border=true&locale=ko" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ys06o&theme=default" />
-</div>
-
 ## 📝 Update Log
-- 2026.05: 통계 카드 표시 안정화
+- 2026.05: 통계 카드 제거 및 안정형 배지 중심으로 변경
 - 2026.05: 프로필 구조 전면 개편
 - 2026.05: Spring/MySQL 중심 기술 스택 재정리
