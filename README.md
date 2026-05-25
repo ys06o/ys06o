@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=venom&height=260&color=0:232526,100:414345&text=Yongseong%20Kim&fontColor=f5f5f5&fontSize=56&animation=fadeIn&stroke=f5f5f5&strokeWidth=1)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pretendard&weight=600&size=22&pause=1100&color=E96443&center=true&vCenter=true&width=900&lines=%ED%95%9C%EA%B5%AD%EC%97%90%EC%84%9C+%EA%B0%9C%EB%B0%9C%ED%95%98%EB%8A%94+%EB%B0%B1%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90;Spring%EA%B3%BC+MySQL%EB%A1%9C+%EC%95%88%EC%A0%95%EC%A0%81%EC%9D%B8+%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC+%EB%A7%8C%EB%93%AD%EB%8B%88%EB%8B%A4;%EC%8B%A4%EC%A0%9C+%EC%82%AC%EC%9A%A9%EC%9E%90%EC%97%90%EA%B2%8C+%EA%B0%80%EC%B9%98%EB%A5%BC+%EC%A0%84%ED%95%A9%EB%8B%88%EB%8B%A4)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=2800&pause=900&color=E96443&center=true&vCenter=true&multiline=true&repeat=true&width=920&height=95&lines=%EB%B0%B1%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90+%EA%B9%80%EC%9A%A9%EC%84%B1%EC%9E%85%EB%8B%88%EB%8B%A4.;Spring+%26+MySQL%EB%A1%9C+%EC%95%88%EC%A0%95%EC%A0%81%EC%9D%B8+%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC+%EA%B5%AC%ED%98%84%ED%95%A9%EB%8B%88%EB%8B%A4.;%EB%B3%B5%EC%9E%A1%ED%95%A8%EC%9D%80+%EC%A4%84%EC%9D%B4%EA%B3%A0%2C+%EA%B0%80%EC%B9%98%EB%8A%94+%EB%86%92%EC%9E%85%EB%8B%88%EB%8B%A4.)](https://git.io/typing-svg)
 
 <p>
   <a href="mailto:yongseongg00@gmail.com"><img src="https://img.shields.io/badge/Email-222222?style=for-the-badge&logo=gmail&logoColor=white" /></a>
