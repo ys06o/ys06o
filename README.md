@@ -1,48 +1,48 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=venom&height=260&color=0:232526,100:414345&text=Yongseong%20Kim&fontColor=f5f5f5&fontSize=56&animation=fadeIn&stroke=f5f5f5&strokeWidth=1)
+![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=0:1f2937,50:374151,100:111827&text=Yongseong%20Kim&fontColor=f9fafb&fontSize=52&animation=fadeIn&fontAlignY=38&desc=Spring%20%7C%20MySQL%20Backend%20Developer&descAlignY=60)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=600&size=23&duration=2800&pause=900&color=E96443&center=true&vCenter=true&multiline=true&repeat=true&width=920&height=95&lines=%EB%B0%B1%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90+%EA%B9%80%EC%9A%A9%EC%84%B1%EC%9E%85%EB%8B%88%EB%8B%A4.;Spring+%26+MySQL%EB%A1%9C+%EC%95%88%EC%A0%95%EC%A0%81%EC%9D%B8+%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC+%EA%B5%AC%ED%98%84%ED%95%A9%EB%8B%88%EB%8B%A4.;%EB%B3%B5%EC%9E%A1%ED%95%A8%EC%9D%80+%EC%A4%84%EC%9D%B4%EA%B3%A0%2C+%EA%B0%80%EC%B9%98%EB%8A%94+%EB%86%92%EC%9E%85%EB%8B%88%EB%8B%A4.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=700&size=24&duration=2600&pause=900&color=F59E0B&center=true&vCenter=true&multiline=true&repeat=true&width=940&height=96&lines=%EC%95%88%EC%A0%95%EC%A0%81%EC%9D%B8+%EB%B0%B1%EC%97%94%EB%93%9C%EB%A5%BC+%EB%A7%8C%EB%93%AD%EB%8B%88%EB%8B%A4.;%EB%B3%B5%EC%9E%A1%ED%95%9C+%EB%AC%B8%EC%A0%9C%EB%A5%BC+%EB%8B%A8%EC%88%9C%ED%95%9C+%EA%B5%AC%EC%A1%B0%EB%A1%9C+%ED%92%89%EB%8B%88%EB%8B%A4.;%EB%B0%B0%ED%8F%AC+%EC%9D%B4%ED%9B%84%EA%B9%8C%EC%A7%80+%EC%B1%85%EC%9E%84%EC%A7%80%EA%B3%A0+%EA%B0%9C%EC%84%A0%ED%95%A9%EB%8B%88%EB%8B%A4.)](https://git.io/typing-svg)
 
 <p>
-  <a href="mailto:yongseongg00@gmail.com"><img src="https://img.shields.io/badge/Email-222222?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Backend-Spring%20%7C%20MySQL-3a3a3a?style=for-the-badge" />
-  <img src="https://komarev.com/ghpvc/?username=ys06o&style=for-the-badge&color=ff7a59" />
+  <a href="mailto:yongseongg00@gmail.com"><img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Backend-Spring%20%7C%20MySQL-1f2937?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=ys06o&style=for-the-badge&color=f59e0b" />
 </p>
 
 </div>
 
-## 소개
-문제를 코드로 푸는 데서 멈추지 않고, 배포 이후 사용자 반응까지 확인하며 개선합니다.  
-작은 실험을 빠르게 반복해 더 나은 제품 경험을 만드는 데 집중하고 있어요.
+## 👨‍💻 소개
+사용자에게 실제로 도움이 되는 기능을 만드는 백엔드 개발자입니다.  
+Spring과 MySQL을 기반으로, 운영 가능한 구조와 안정적인 성능을 중요하게 생각합니다.
 
-## 지금 하고 있는 것
-- Spring 기반 백엔드 애플리케이션을 설계하고 구현합니다.
-- MySQL 데이터 모델링과 쿼리 최적화에 관심이 많습니다.
-- 읽기 쉬운 구조와 유지보수 가능한 코드베이스를 지향합니다.
+## ✨ 핵심 역량
+- 도메인을 먼저 이해하고, 유지보수 가능한 구조로 설계합니다.
+- 쿼리 성능과 데이터 정합성을 함께 고려해 구현합니다.
+- 배포 이후 로그와 지표를 기반으로 빠르게 개선합니다.
 
-## 기술 스택
+## 🛠 기술 스택
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,git,github,vscode&perline=6" />
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,git,github,vscode,idea&perline=7" />
 </div>
 
-## GitHub 통계
+## 📊 GitHub 통계
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=ys06o&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&locale=kr" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ys06o&layout=compact&theme=transparent&hide_border=true&langs_count=6" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ys06o&theme=transparent&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=ys06o&theme=transparent&hide_border=true&locale=ko" />
 </div>
 
-## 활동 그래프
+## 📈 활동 그래프
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ys06o&theme=github-dark&hide_border=true&area=true" />
 </div>
 
-## 대표 프로젝트
-- 대표 프로젝트를 선별해 곧 카드 형태로 정리할 예정입니다.
+## 📌 대표 프로젝트
+- Spring/MySQL 기반 프로젝트를 정리해 카드 형태로 업데이트할 예정입니다.
 
 ---
 
