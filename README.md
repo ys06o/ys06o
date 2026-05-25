@@ -37,14 +37,19 @@
 
 ## 📊 GitHub Dashboard
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ys06o&show_icons=true&theme=transparent&hide_border=true&locale=kr" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ys06o&layout=compact&theme=transparent&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ys06o&show_icons=true&theme=default&hide_border=true&cache_seconds=1800" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ys06o&layout=compact&theme=default&hide_border=true&cache_seconds=1800" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ys06o&theme=transparent&hide_border=true&locale=ko" />
+  <img src="https://streak-stats.demolab.com?user=ys06o&theme=default&hide_border=true&locale=ko" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ys06o&theme=default" />
 </div>
 
 ## 📝 Update Log
+- 2026.05: 통계 카드 표시 안정화
 - 2026.05: 프로필 구조 전면 개편
 - 2026.05: Spring/MySQL 중심 기술 스택 재정리
