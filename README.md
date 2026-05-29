@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2800&pause=1200&color=9CA3AF&center=true&vCenter=true&width=700&lines=신뢰할+수+있는+서버를+설계하고+구현합니다;Java+%7C+Spring+Boot+%7C+Security+%7C+JPA+%7C+Redis;복잡함을+줄이고+유지보수성을+높이는+개발을+지향합니다" alt="typing" />
+  <sub>신뢰할 수 있는 서버를 설계하고 구현합니다 · Java · Spring Boot · Security · JPA · Redis</sub>
 </div>
 
 <div align="center">
