@@ -25,7 +25,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
 
-## Project Highlight
+## Project Highlights
 ### OurAssembly
 위치 기반으로 지역구 국회의원 정보를 확인하고,
 관심 의원 팔로우 시 관련 뉴스를 푸시 알림으로 제공하는 서비스입니다.
@@ -33,9 +33,19 @@
 - Role: Backend (FCM, Follow System, Scheduler)
 - Stack: Spring Boot, MySQL, Firebase FCM, JWT, React, Vite
 - Key Achievements:
-- FCM 멀티캐스트 배치 발송(500건 단위) 및 실패 토큰 자동 정리
-- Spring Scheduler 기반 일일 데이터 수집 및 자동 알림 발송
-- JWT 인증 기반 팔로우/언팔로우 API 설계
+  - FCM 멀티캐스트 배치 발송(500건 단위) 및 실패 토큰 자동 정리
+  - Spring Scheduler 기반 일일 데이터 수집 및 자동 알림 발송
+  - JWT 인증 기반 팔로우/언팔로우 API 설계
+
+### PlantCare
+식물 등록, 성장 기록, 센서 데이터 확인 기능을 제공하는 식물 관리 팀 프로젝트입니다.
+
+- Role: Backend API 개발, DB 설계
+- Stack: Spring Boot, MySQL
+- Key Achievements:
+  - 식물 등록/조회/수정 기능을 위한 REST API 설계
+  - 성장 기록 데이터 모델링 및 CRUD API 구현
+  - 센서 데이터 연동을 고려한 DB 스키마 구조 설계
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ys06o&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=github)
