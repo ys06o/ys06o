@@ -1,75 +1,51 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,100:1F2937&text=wlehrja5753&fontSize=46&fontColor=E5E7EB&animation=fadeIn)
+# Hi, I'm Yongseong 👋
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2600&pause=1200&color=9CA3AF&center=true&vCenter=true&width=720&lines=안정적인+백엔드+시스템을+설계합니다;Java+%7C+Spring+Boot+%7C+Security+%7C+JPA+%7C+Redis;가독성+좋은+코드와+예측+가능한+운영을+지향합니다" alt="typing" />
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=wlehrja5753&style=flat-square&color=374151&label=PROFILE+VIEWS" alt="visitor" />
-</div>
+Backend developer focused on building reliable and scalable server-side systems.
+Currently seeking my first full-time role as a Java/Spring Boot developer.
 
 ---
 
-## 소개
-유지보수하기 쉬운 구조, 명확한 API 계약, 안정적인 인증/인가 흐름을 중심으로 백엔드를 개발합니다.
+## 🛠 Tech Stack
 
-기능 구현뿐 아니라 운영 환경에서의 예측 가능성과 코드 일관성을 중요하게 생각합니다.
+**Backend**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA%2FHibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase_FCM-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
----
+**Database**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-## 기술 스택
-<div align="center">
-
-![Java](https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=F9FAFB)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-111827?style=for-the-badge&logo=springboot&logoColor=6EE7B7)
-![Spring Security](https://img.shields.io/badge/Spring%20Security-111827?style=for-the-badge&logo=springsecurity&logoColor=86EFAC)
-![JPA](https://img.shields.io/badge/JPA-111827?style=for-the-badge&logo=hibernate&logoColor=D1D5DB)
-
-![MySQL](https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=93C5FD)
-![Redis](https://img.shields.io/badge/Redis-111827?style=for-the-badge&logo=redis&logoColor=FCA5A5)
-![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=93C5FD)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-111827?style=for-the-badge&logo=githubactions&logoColor=C4B5FD)
-
-</div>
+**Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
 ---
 
-## 프로젝트
+## 🚀 Featured Project
 
-### PlantCare
-IoT 기반 스마트 식물 관리 서비스
+**OurAssembly (우리동네 국회의원)**
+A civic-tech platform that connects Korean citizens with their National Assembly members.
+Features interest-based push notifications via Firebase FCM, JWT authentication, and Open API integration.
 
-- Spring Boot 백엔드 설계/구현
-- Redis 기반 인증 및 캐싱 구조 적용
-- React Native 모바일 앱 연동
-- AI 식물 진단 기능 연계
+`Spring Boot` `React/Vite` `MySQL` `Firebase FCM` `JWT` `Spring Scheduler`
 
-### 우리동네 국회의원
-공공데이터 기반 지역 정치인 정보 제공 서비스
-
-- 위치 기반 정보 제공을 위한 REST API 설계
-- MySQL 스키마 설계 및 데이터 관리
-- 안정적인 데이터 수집/조회 흐름 구현
+[GitHub](https://github.com/yongseong/our-assembly) | [Demo](#)
 
 ---
 
-## GitHub 통계
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=wlehrja5753&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=E5E7EB&icon_color=9CA3AF&text_color=9CA3AF&rank_icon=github" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wlehrja5753&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=E5E7EB&text_color=9CA3AF&langs_count=8" alt="langs" />
-</div>
+## 📊 GitHub Stats
+
+<p align="left">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true" />
+</p>
 
 ---
 
-## 기여 그래프
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wlehrja5753/wlehrja5753/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wlehrja5753/wlehrja5753/output/github-snake.svg" />
-    <img alt="snake" src="https://raw.githubusercontent.com/wlehrja5753/wlehrja5753/output/github-snake-dark.svg" />
-  </picture>
-</div>
+## 📬 Contact
 
----
-
-![footer](https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0D1117,100:1F2937)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=notion&logoColor=white)](#)
