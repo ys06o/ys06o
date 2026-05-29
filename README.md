@@ -1,4 +1,3 @@
-```md
 <div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:334155&height=220&section=header&text=Yongseong%20Kim&fontSize=48&fontColor=f8fafc&animation=fadeIn&fontAlignY=40&desc=Backend%20Developer&descAlignY=62)
@@ -23,7 +22,7 @@
 
 ---
 
-# 소개
+## 소개
 
 안녕하세요. 백엔드 개발자를 준비하고 있는 김용성입니다.  
 Java와 Spring Boot 기반으로 백엔드를 개발하고 있습니다.  
@@ -31,18 +30,18 @@ Java와 Spring Boot 기반으로 백엔드를 개발하고 있습니다.
 
 ---
 
-# 기술 스택
+## 기술 스택
 
-### Backend
+**Backend**  
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
 <img src="https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=hibernate&logoColor=white" />
 
-### Database
+**Database**  
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 
-### Tools
+**Tools**  
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellijidea&logoColor=white" />
@@ -50,7 +49,7 @@ Java와 Spring Boot 기반으로 백엔드를 개발하고 있습니다.
 
 ---
 
-# 프로젝트
+## 프로젝트
 
 ### 우리동네 국회의원
 위치 기반으로 지역구 국회의원 정보를 확인할 수 있는 서비스입니다.  
@@ -77,7 +76,7 @@ Java와 Spring Boot 기반으로 백엔드를 개발하고 있습니다.
 
 ---
 
-# 공부하는 것
+## 공부하는 것
 
 - REST API 설계와 예외 처리 구조
 - MySQL 기반 데이터 모델링
@@ -86,7 +85,6 @@ Java와 Spring Boot 기반으로 백엔드를 개발하고 있습니다.
 
 ---
 
-# 연락
+## 연락
 
-- Email : `wlehrja5753@gmail.com`
-```
+📧 wlehrja5753@gmail.com
