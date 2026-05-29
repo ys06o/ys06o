@@ -57,4 +57,4 @@
 - 각 프로젝트는 `문제 정의 → 구현 방식 → 결과` 순서로 정리할 계획입니다.
 
 ## 📫 연락
-- Email: `yongseongg00@gmail.com`
+- Email: `wlehrja5753@gmail.com`
