@@ -1,57 +1,90 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=220&section=header&text=Yongseong%20Kim&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20%7C%20Spring%20Boot%20Backend%20Developer&descSize=17&descAlignY=58&descColor=c9d1d9)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:111827,100:1F2937&text=wlehrja5753&fontColor=E5E7EB&fontSize=46&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Java%20%26%20Spring&descAlignY=60&descColor=9CA3AF" alt="header" />
+</div>
 
-## Hi, I'm Yongseong
-기본기에 충실한 백엔드 개발자를 지향합니다.
-안정적으로 동작하는 API와 읽기 쉬운 코드를 중요하게 생각합니다.
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2600&pause=1200&color=9CA3AF&center=true&vCenter=true&width=680&lines=Designing+reliable+backend+systems.;Java+%7C+Spring+Boot+%7C+Security+%7C+JPA+%7C+Redis.;Clean+APIs%2C+stable+architecture%2C+production+mindset." alt="typing" />
+</div>
 
-## About Me
-- Name: 김용성 (Yongseong Kim)
-- Role: Backend Developer (Junior)
-- School: 성결대학교 (Sungkyul University)
-- Email: [wlehrja5753@gmail.com](mailto:wlehrja5753@gmail.com)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=wlehrja5753&style=flat-square&color=374151&label=PROFILE+VIEWS" alt="visitor counter" />
+</div>
+
+---
+
+## Introduction
+Backend developer focused on building maintainable services with clear API contracts, secure authentication flows, and scalable data access patterns.
+
+I prioritize readability, consistent conventions, and predictable production behavior.
+
+---
 
 ## Tech Stack
-### Backend
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=hibernate&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+<div align="center">
 
-### Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=F9FAFB)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-111827?style=for-the-badge&logo=springboot&logoColor=6EE7B7)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-111827?style=for-the-badge&logo=springsecurity&logoColor=86EFAC)
+![JPA](https://img.shields.io/badge/JPA-111827?style=for-the-badge&logo=hibernate&logoColor=D1D5DB)
 
-### Collaboration
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=93C5FD)
+![Redis](https://img.shields.io/badge/Redis-111827?style=for-the-badge&logo=redis&logoColor=FCA5A5)
+![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=93C5FD)
+![GitHub%20Actions](https://img.shields.io/badge/GitHub%20Actions-111827?style=for-the-badge&logo=githubactions&logoColor=C4B5FD)
 
-## Project Highlights
-### OurAssembly
-위치 기반으로 지역구 국회의원 정보를 확인하고,
-관심 의원 팔로우 시 관련 뉴스를 푸시 알림으로 제공하는 서비스입니다.
+</div>
 
-- Role: Backend (FCM, Follow System, Scheduler)
-- Stack: Spring Boot, MySQL, Firebase FCM, JWT, React, Vite
-- Key Achievements:
-  - FCM 멀티캐스트 배치 발송(500건 단위) 및 실패 토큰 자동 정리
-  - Spring Scheduler 기반 일일 데이터 수집 및 자동 알림 발송
-  - JWT 인증 기반 팔로우/언팔로우 API 설계
+---
+
+## Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### PlantCare
-식물 등록, 성장 기록, 센서 데이터 확인 기능을 제공하는 식물 관리 팀 프로젝트입니다.
+**IoT-based smart plant management service**
 
-- Role: Backend API 개발, DB 설계
-- Stack: Spring Boot, MySQL
-- Key Achievements:
-  - 식물 등록/조회/수정 기능을 위한 REST API 설계
-  - 성장 기록 데이터 모델링 및 CRUD API 구현
-  - 센서 데이터 연동을 고려한 DB 스키마 구조 설계
+- Spring Boot backend architecture
+- Redis-based authentication and caching strategy
+- React Native mobile application integration
+- AI-assisted plant diagnosis workflow
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ys06o&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=github)
+</td>
+<td width="50%" valign="top">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ys06o&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6)
+### 우리동네 국회의원
+**Public-data based local politician information service**
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ys06o&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e)
+- REST API design for location-based information delivery
+- MySQL schema design and query optimization
+- Stable data ingestion and retrieval flow
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=120&section=footer)
+</td>
+</tr>
+</table>
+
+---
+
+## GitHub Analytics
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=wlehrja5753&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=E5E7EB&icon_color=9CA3AF&text_color=9CA3AF&rank_icon=github" alt="github stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wlehrja5753&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=E5E7EB&text_color=9CA3AF&langs_count=8" alt="top languages" />
+</div>
+
+---
+
+## Contribution Graph
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wlehrja5753/wlehrja5753/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wlehrja5753/wlehrja5753/output/github-snake.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/wlehrja5753/wlehrja5753/output/github-snake-dark.svg" />
+  </picture>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0D1117,50:111827,100:1F2937" alt="footer" />
+</div>
