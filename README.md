@@ -1,6 +1,9 @@
 <div align="center">
 
-<h3><code>System.out.println("Hello, World!");</code></h3>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2600&pause=900&color=2563EB&center=true&vCenter=true&width=620&lines=System.out.println(%22Hello%2C+World!%22);Backend+Developer+Kim+Yongseong;Java+%7C+Spring+Boot+%7C+REST+API+%7C+Database" alt="Typing SVG" />
+
+<br />
+<br />
 
 # Kim Yongseong
 
