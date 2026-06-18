@@ -71,7 +71,7 @@ API 설계, 데이터베이스 모델링, 인증 구조처럼
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3><a href="https://github.com/ys06o/Yeginamgim-Back">Yeoginamgim</a></h3>
+      <h3><a href="https://github.com/kbm1611/Yeoginamgim-Front">Yeoginamgim</a></h3>
       <p><strong>공간 기반 디지털 방명록 서비스</strong></p>
       <p>
         <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
