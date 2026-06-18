@@ -71,12 +71,17 @@ API 설계, 데이터베이스 모델링, 인증 구조처럼
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3>Yeoginamgim</h3>
+      <h3><a href="https://github.com/ys06o/Yeginamgim-Back">Yeoginamgim</a></h3>
       <p><strong>공간 기반 디지털 방명록 서비스</strong></p>
       <p>
         <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=1F2937" />
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+      </p>
+      <p>
+        <a href="https://github.com/ys06o/Yeginamgim-Back">
+          <img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white" />
+        </a>
       </p>
       <p><strong>Role</strong><br />기획 / 백엔드 / 프론트엔드</p>
       <p><strong>Key Features</strong></p>
@@ -90,12 +95,17 @@ API 설계, 데이터베이스 모델링, 인증 구조처럼
       </ul>
     </td>
     <td width="33%" valign="top">
-      <h3>PlantCare</h3>
+      <h3><a href="https://github.com/ys06o/PlantCare">PlantCare</a></h3>
       <p><strong>IoT 기반 반려식물 관리 플랫폼</strong></p>
       <p>
         <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
         <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
         <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=1F2937" />
+      </p>
+      <p>
+        <a href="https://github.com/ys06o/PlantCare">
+          <img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white" />
+        </a>
       </p>
       <p><strong>Role</strong><br />백엔드 개발</p>
       <p><strong>Key Features</strong></p>
@@ -106,12 +116,17 @@ API 설계, 데이터베이스 모델링, 인증 구조처럼
       </ul>
     </td>
     <td width="33%" valign="top">
-      <h3>OurAssembly</h3>
+      <h3><a href="https://github.com/ys06o/our-assembly">OurAssembly</a></h3>
       <p><strong>국회의원 활동 정보 제공 플랫폼</strong></p>
       <p>
         <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
         <img src="https://img.shields.io/badge/FCM-FFCA28?style=flat-square&logo=firebase&logoColor=1F2937" />
+      </p>
+      <p>
+        <a href="https://github.com/ys06o/our-assembly">
+          <img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white" />
+        </a>
       </p>
       <p><strong>Role</strong><br />백엔드 개발</p>
       <p><strong>Key Features</strong></p>
